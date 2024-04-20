@@ -47,9 +47,9 @@ Deux possibilités s'offrent à vous pour mettre en opération les agents :
 - **Utiliser l'application Streamlit** : Lancez `streamlit run streamlit-app.py` puis rendez vous dans votre navigateur à l'URL `http://localhost:8501`
 
 ## Détails et explications
-- Pour obtenir un bon résutlat, entrez les informations demandées lorsque vous y êtes invité de manière précise et concise. Le script s'appuiera sur la structure CrewAI pour créer l'offre d'emploi pour vous.
+Pour obtenir un bon résutlat, entrez les informations demandées lorsque vous y êtes invité de manière précise et concise. Le script s'appuiera sur la structure CrewAI pour créer l'offre d'emploi pour vous.
 
-- **Composants clés** :
+## Composants clés :
   - `./app.py` : fichier de script principal.
   - `./streamlit-app.py` : version adaptée du script principal pour l'intégrer dans l'application Streamlit
 
